@@ -46,7 +46,6 @@
          <button class="add-to-cart" onclick="addToCart('Product 2', 20)">Add to Cart</button> 
      </div> 
          </div>
-
    <center> <div class="cart"> 
          <h2>Shopping Cart</h2> 
          <ul id="cart-items"></ul> 
